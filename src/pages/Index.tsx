@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-// Update this page (the content is just a fallback if you fail to update the page)
-
 const Index = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-background">
@@ -10,12 +7,6 @@ const Index = () => {
       </div>
     </div>
   );
-=======
-import Dashboard from "./Dashboard";
-
-const Index = () => {
-  return <Dashboard />;
->>>>>>> e239e2e (Initial commit)
 };
 
 export default Index;
